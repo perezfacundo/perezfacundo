@@ -13,4 +13,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/63246299/117214472-40b15400-add3-11eb-9ac9-43c5fda87d89.png)" alt="dotnet" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/63246299/117214472-40b15400-add3-11eb-9ac9-43c5fda87d89.png" alt="dotnet" width="40" height="40"/> </a> </p>
