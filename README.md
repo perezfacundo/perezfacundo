@@ -1,8 +1,6 @@
 <h1 align="center">Hi👋, I'm Facundo</h1>
 <h3 align="center">A student/developer from Argentina</h3>
 
-<p align="left"> <a href="https://twitter.com/_facuperez98" target="blank"><img src="https://img.shields.io/twitter/follow/_facuperez98?logo=twitter&style=for-the-badge" alt="_facuperez98" /></a> </p>
-
 - 🌱 I’m currently learning **.NET and javascript**
 
 - 📫 How to reach me **perezfaq98@gmail.com**
@@ -10,8 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"/></svg>
-<a href="https://twitter.com/_facuperez98" target="blank"><img align="center"  alt="_facuperez98" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/_facuperez98" target="blank"><img src="https://img.shields.io/twitter/follow/_facuperez98?logo=twitter&style=for-the-badge" alt="_facuperez98" /></a> </p>
 <a href="https://instagram.com/_facuperez98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_facuperez98" height="30" width="40" /></a>
 </p>
 
