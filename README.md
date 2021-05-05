@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Facundo</h1>
+<h1 align="center">Hi👋, I'm Facundo</h1>
 <h3 align="center">A student/developer from Argentina</h3>
 
 <p align="left"> <a href="https://twitter.com/_facuperez98" target="blank"><img src="https://img.shields.io/twitter/follow/_facuperez98?logo=twitter&style=for-the-badge" alt="_facuperez98" /></a> </p>
