@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Facundo !</h1>
 <h3 align="center">Estudiante/desarrollador de Córdoba, Argentina</h3>
 
-- 🔧 Estoy trabajando en desarrollo con vb.net
+- 🔧 Actualmente estoy trabajando en desarrollo con vb.net
 - 🚚 También estoy desarrollando mi proyecto final/tesis de la carrera de analista de sistemas
-- 🌱 Actualmente estoy aprendiendo **javascript**
+- 🌱 Además estoy aprendiendo **javascript**
 
 - 📩 How to reach me **perezfaq98@gmail.com**
 
