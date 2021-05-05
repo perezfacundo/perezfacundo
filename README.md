@@ -4,7 +4,7 @@
 - 🔧 Actualmente estoy trabajando en desarrollo con **vb.net**
 - 🚚 También estoy desarrollando mi proyecto final/tesis de la carrera de **analista de sistemas**
 - 🌱 Además estoy aprendiendo **javascript**
-- 📩 Cómo contactarme **perezfaq98@gmail.com**
+- 📩 Puedes contactarme mediante **perezfaq98@gmail.com**
 
 <h3 align="left">Redes sociales:</h3>
 
