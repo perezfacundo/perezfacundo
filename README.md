@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante/desarrollador de Córdoba, Argentina</h3>
 <br></br>
 
-- 🔧 Actualmente estoy buscando una pasantía para trabajar en desarrollo con **vb.net** o **asp.net**
+- 🔧 Actualmente estoy buscando una pasantía o trabajo de 4hs para desarrollo en **vb.net** o **asp.net**
 - 🚚 También estoy desarrollando mi proyecto final/tesis de la carrera de **analista de sistemas**
 - 🌱 Además estoy aprendiendo **javascript**
 - 📩 Puedes contactarme mediante **perezfaq98@gmail.com**
