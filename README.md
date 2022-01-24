@@ -4,7 +4,7 @@
 
 - 🔧 Actualmente estoy buscando una pasantía o trabajo de 4hs para desarrollo en **vb.net**
 - 🚚 También estoy desarrollando mi proyecto final/tesis de la carrera de **analista de sistemas**
-- 🌱 Además estoy aprendiendo **javascript**
+- 🌱 Además estoy aprendiendo **C#**
 - 📩 Puedes contactarme mediante **perezfaq98@gmail.com**
 
 <h3 align="left">Lenguajes y herramientas:</h3>
