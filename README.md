@@ -2,13 +2,9 @@
 <h3 align="center">Estudiante/desarrollador de Córdoba, Argentina</h3>
 <br></br>
 
-- 🔧 Actualmente estoy buscando una pasantía o trabajo de 4hs para desarrollo en **vb.net**
+- 🔧 Actualmente estoy buscando trabajo de desarrollo en python o analista de sistemas 
 - 🚚 También estoy desarrollando mi proyecto final/tesis de la carrera de **analista de sistemas**
-- 🌱 Además estoy aprendiendo **C#**
+- 🌱 Además estoy aprendiendo **Python**
 - 📩 Puedes contactarme mediante **perezfaq98@gmail.com**
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> 
-  	<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" height="25"/> </a> 
-  	
-</p>
+
