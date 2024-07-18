@@ -2,9 +2,9 @@
 <h3 align="center">Estudiante/desarrollador de Córdoba, Argentina</h3>
 <br></br>
 
-- 🔧 Actualmente estoy buscando trabajo de desarrollo en python o analista de sistemas 
-- 🚚 También estoy desarrollando mi proyecto final/tesis de la carrera de **analista de sistemas**
-- 🌱 Además estoy aprendiendo **Python**
+- 🔧 Actualmente estoy buscando trabajo en cuanto a desarrollo web, backend python, y/o de analista funcional.
+- 🚚 Estoy estudiando desarrollo web fullstack en Coderhouse
+- 🌱 Me gusta resolver problemas, ayudar y compartir lo que sé
 - 📩 Puedes contactarme mediante **perezfaq98@gmail.com**
 
 
