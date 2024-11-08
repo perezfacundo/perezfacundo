@@ -7,8 +7,8 @@ Soy analista de sistemas. Actualmente estoy ampliando mi formacion en cuanto a d
 - 🤝🏻 Preguntame lo que sea, estoy feliz de ayudar. Y si no lo sé lo investigamos juntos 😂
 - ❤️‍🩹 Fuera del mundo tech, disfruto mucho de hacer deportes en equipo, escuchar y hacer música y ver shows de comedia.
 - 📩 Podés contactarme por [linkedIn](https://www.linkedin.com/in/perez-facundo/) o mediante <a href="perezfaq98@gmail.com">perezfaq98@gmail.com</a>
-  
-&nbsp;
+
+
 
 ## 📚 Formación Académica
 
@@ -27,17 +27,24 @@ Mi tesis es el proyecto más relevante que tengo. Si bien no es una maravilla en
 
 ## 🔧 Habilidades Técnicas
 
-**Lenguajes:**  
-- Python
-- JavaScript
-- Java
-- SQL
-- .NET
+**Lenguajes:**
+&nbsp;
 
-**Frameworks y Librerías:**  
-- Django
-- Bootstrap
-- (Aprendiendo React)
+<span>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" />
+</span>
+
+**Frameworks y Librerías:** 
+&nbsp;
+
+<span>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+</span>
 
 ---
 
@@ -45,8 +52,7 @@ Mi tesis es el proyecto más relevante que tengo. Si bien no es una maravilla en
 
 - Trabajo en equipo
 - Resolución de problemas
-- Proactividad y capacidad de compartir conocimientos
-- Grandes aspiraciones profesionales
+- Proactividad y capacidad para compartir conocimientos
 
 ## 🎯 Objetivos de Carrera
 
