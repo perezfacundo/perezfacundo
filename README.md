@@ -1,8 +1,12 @@
-# ¡Hola! 👋 Soy Facundo
+# Hola, mi nombre es Facundo 👋
 
-Soy un apasionado por el análisis y la mejora continua de procesos, con una inclinación hacia la resolución de problemas y la innovación en tecnología. Mi formación incluye estudios en electrónica, análisis de sistemas y desarrollo web fullstack, y actualmente estoy ampliando mis conocimientos en desarrollo web.
+<img align="right" width="200px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=790b7611ukqp5ocowv21dsd71atk8n2ao7wh35mfch3kbcg2&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
----
+<p>Soy un apasionado por el análisis y la mejora continua de procesos, con una inclinación hacia la resolución de problemas y la innovación en tecnología. Mi formación incluye estudios en electrónica, análisis de sistemas y desarrollo web fullstack, y actualmente estoy ampliando mis conocimientos en desarrollo web.</p>
+
+
+
+&nbsp;
 
 ## 📚 Formación Académica
 
