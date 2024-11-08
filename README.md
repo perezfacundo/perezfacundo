@@ -6,7 +6,7 @@ Soy analista de sistemas. Actualmente estoy ampliando mi formacion en cuanto a d
 - 🌱 Actualmente estoy aprendiendo React
 - 🤝🏻 Preguntame lo que sea, estoy feliz de ayudar. Y si no lo sé lo investigamos juntos 😂
 - Fuera del mundo tech, disfruto mucho de hacer deportes en equipo, escuchar y hacer música y ver shows de comedia.
-- Podés contactarme por [linkedIn](https://www.linkedin.com/in/perez-facundo/) o mediante [gmail]()
+- Podés contactarme por [linkedIn](https://www.linkedin.com/in/perez-facundo/) o mediante [gmail](mailto:perezfaq98@gmail?subject=HolaFacundo!&body=Te%escribo%para)
   
 &nbsp;
 
