@@ -2,10 +2,12 @@
 
 <img align="right" width="200px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=790b7611ukqp5ocowv21dsd71atk8n2ao7wh35mfch3kbcg2&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-<p>Soy un apasionado por el análisis y la mejora continua de procesos, con una inclinación hacia la resolución de problemas y la innovación en tecnología. Mi formación incluye estudios en electrónica, análisis de sistemas y desarrollo web fullstack, y actualmente estoy ampliando mis conocimientos en desarrollo web.</p>
-
-
-
+Soy analista de sistemas. Actualmente estoy ampliando mi formacion en cuanto a desarrollo web, tanto front como back, pero me gustan mucho los datos 😅. Me gusta mucho resolver problemas e iterar las soluciones de éstos. 
+- 🌱 Actualmente estoy aprendiendo React
+- 🤝🏻 Preguntame lo que sea, estoy feliz de ayudar. Y si no lo sé lo investigamos juntos 😂
+- Fuera del mundo tech, disfruto mucho de hacer deportes en equipo, escuchar y hacer música y ver shows de comedia.
+- Podés contactarme por [linkedIn](https://www.linkedin.com/in/perez-facundo/) o mediante [gmail]()
+  
 &nbsp;
 
 ## 📚 Formación Académica
