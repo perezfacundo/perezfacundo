@@ -35,7 +35,7 @@ Mi tesis es el proyecto más relevante que tengo. Si bien no es una maravilla en
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" />
 </span>
 
 **Frameworks y Librerías:** 
