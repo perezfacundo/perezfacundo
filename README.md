@@ -1,12 +1,12 @@
 # Hola, mi nombre es Facundo 👋
 
-<img align="right" width="200px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=790b7611ukqp5ocowv21dsd71atk8n2ao7wh35mfch3kbcg2&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="right" width="250px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=790b7611ukqp5ocowv21dsd71atk8n2ao7wh35mfch3kbcg2&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 Soy analista de sistemas. Actualmente estoy ampliando mi formacion en cuanto a desarrollo web, tanto front como back, pero me gustan mucho los datos 😅. Me gusta mucho resolver problemas e iterar las soluciones de éstos. 
 - 🌱 Actualmente estoy aprendiendo React
 - 🤝🏻 Preguntame lo que sea, estoy feliz de ayudar. Y si no lo sé lo investigamos juntos 😂
-- Fuera del mundo tech, disfruto mucho de hacer deportes en equipo, escuchar y hacer música y ver shows de comedia.
-- Podés contactarme por [linkedIn](https://www.linkedin.com/in/perez-facundo/) o mediante <a href="perezfaq98@gmail.com">perezfaq98@gmail.com</a>
+- ❤️‍🩹 Fuera del mundo tech, disfruto mucho de hacer deportes en equipo, escuchar y hacer música y ver shows de comedia.
+- 📩 Podés contactarme por [linkedIn](https://www.linkedin.com/in/perez-facundo/) o mediante <a href="perezfaq98@gmail.com">perezfaq98@gmail.com</a>
   
 &nbsp;
 
