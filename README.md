@@ -21,7 +21,8 @@ Soy analista de sistemas. Actualmente estoy ampliando mi formacion en cuanto a d
 **Tesis:**  
 Mi tesis es el proyecto más relevante que tengo. Si bien no es una maravilla en cuanto a desarrollo, se destaca por el análisis que realicé, abordando el relevamiento, diagnóstico, propuesta de solución y diseño de diagramas. Estos aspectos son clave en el desarrollo de un sistema orientado a procesos.
 
-🔗 [Acceder a mi proyecto más importante](https://coda.io/d/SCRUM1-PEREZ_d6HOxCl0HL4/Proyecto-a-trabajar_su6fG91_#_lu8P8EnI)
+🔗 [Tesis de analista en sistemas](https://github.com/perezfacundo/project_v1)
+🔗 [Proyecto scrum](https://coda.io/d/SCRUM1-PEREZ_d6HOxCl0HL4/Proyecto-a-trabajar_su6fG91_#_lu8P8EnI)
 
 ---
 
