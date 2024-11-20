@@ -2,6 +2,8 @@
 
 <img align="right" width="300px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=790b7611ukqp5ocowv21dsd71atk8n2ao7wh35mfch3kbcg2&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
+---
+
 Soy analista de sistemas. Actualmente estoy ampliando mi formacion en cuanto a desarrollo web, tanto front como back, pero me gustan mucho los datos 😅. Me gusta mucho resolver problemas e iterar las soluciones de éstos. 
 - 🌱 Actualmente estoy aprendiendo React
 - 🤝🏻 Preguntame lo que sea, estoy feliz de ayudar. Y si no lo sé lo investigamos juntos 😂
