@@ -5,7 +5,7 @@
 
 
 Soy analista de sistemas. Actualmente estoy ampliando mi formacion en cuanto a desarrollo web, tanto front como back, pero me gustan mucho los datos 😅. Me gusta mucho resolver problemas e iterar las soluciones de éstos. 
-- 🌱 Actualmente estoy aprendiendo React
+- 🌱 Actualmente estoy aprendiendo Java
 - 🤝🏻 Preguntame lo que sea, estoy feliz de ayudar. Y si no lo sé lo investigamos juntos 😂
 - ❤️‍🩹 Fuera del mundo tech, disfruto mucho de hacer deportes en equipo, escuchar y hacer música y ver shows de comedia.
 - 📩 Podés contactarme por [linkedIn](https://www.linkedin.com/in/perez-facundo/) o mediante <a href="perezfaq98@gmail.com">perezfaq98@gmail.com</a>
